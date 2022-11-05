@@ -148,10 +148,14 @@ passwd
 
 这个系统装BBR前先走这个命令
 
+```
 apt update -y && apt install -y curl && apt install -y socat && apt install wget -y
+```
 
 
 
 BBR PLUS 四合一脚本
 
+```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```
