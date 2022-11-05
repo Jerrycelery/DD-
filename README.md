@@ -49,7 +49,9 @@ https://youtu.be/FhuneE1BfaI
 
 1.一键脚本
 
+```
 bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 10 -v 64 -a -firmware -p 12345
+```
 
 
 
